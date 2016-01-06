@@ -1,2 +1,3 @@
-# website
-The Learn Text Vis Website Jekyll Site
+# learntextvis.github.io
+
+The Learn Text Vis Website
