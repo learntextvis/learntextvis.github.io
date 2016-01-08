@@ -73,8 +73,9 @@ Chapters are written in Markdown. Each chapter file starts with a "preamble" tha
 
 The markdown provides the ability to do code snippets and syntax highlighting. We just use the three backticks and append the language the snippet should be highlighted as:
 
-> ```python
-> ```
+> \`\`\`python
+
+> \`\`\`
 
 We can also use [gists](https://gist.github.com/) if the external hosting is desirable for some snippets.
 
